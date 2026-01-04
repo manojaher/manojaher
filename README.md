@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="banner.png" alt="Manoj Aher Banner" width="100%" />
+  <img src="banner.png" alt="Manoj Aher - Development Manager" width="100%" />
 </div>
-
-<h1 align="center">Hi there, I'm Manoj Aher 👋</h1>
-<h3 align="center">Development Manager | Mobile Apps Specialist</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/manojaher">
