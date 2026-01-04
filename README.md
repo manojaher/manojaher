@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="banner.png" alt="Manoj Aher - Development Manager" width="100%" />
-</div>
-
-<div align="center">
   <a href="https://linkedin.com/in/manojaher">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
