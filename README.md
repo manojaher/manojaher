@@ -45,16 +45,6 @@ I am a **Development Manager at athenaHealth**, specializing in building high-pe
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojaher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manoj's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojaher&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
 <div align="center">
   <i>Let's build something amazing together!</i>
 </div>
